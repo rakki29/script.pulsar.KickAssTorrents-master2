@@ -8,7 +8,7 @@
 		<provides>executable</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Pulsar KickAssTorrents Provider</summary>
+		<summary lang="en">Pulsar KickAssTorrents Provider 2</summary>
 		<language></language>
 		<platform>all</platform>
 	</extension>
